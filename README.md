@@ -6,9 +6,9 @@ install python and django
 
 Clone the repository on your local computer using the command below
 
-> `https://github.com/TuyizeeAnastase/frontpage.git`
+> `git clone https://github.com/TuyizeeAnastase/frontpage.git`
 
-Create Environment
+Create Environment 
 
 python3 -m venv venv
 source venv/bin/activate
