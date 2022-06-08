@@ -6,7 +6,7 @@ install python and django
 
 Clone the repository on your local computer using the command below
 
-> `git clone https://github.com/TuyizeeAnastase/frontpage.git`
+> `git clone https://github.com/TuyizeeAnastase/challenge.git`
 
 ## Activate Environment 
 
